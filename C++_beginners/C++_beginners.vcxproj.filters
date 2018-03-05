@@ -22,6 +22,15 @@
     <Filter Include="Source Files\02_03">
       <UniqueIdentifier>{ac9a5f06-5f02-4a9c-9a52-64d182341f16}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\02_04">
+      <UniqueIdentifier>{ddb8f726-2c4b-4d81-af5b-40ec01a7573e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03_01">
+      <UniqueIdentifier>{f827d934-61a9-4336-bd6b-f5b0b39ca555}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\04_01">
+      <UniqueIdentifier>{0f4996ca-fcf4-4ee6-a258-1bc9d659be1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -36,5 +45,22 @@
     <ClCompile Include="asciitable.cpp">
       <Filter>Source Files\02_03</Filter>
     </ClCompile>
+    <ClCompile Include="dollarsAndcents.cpp">
+      <Filter>Source Files\02_04</Filter>
+    </ClCompile>
+    <ClCompile Include="expressions.cpp">
+      <Filter>Source Files\03_01</Filter>
+    </ClCompile>
+    <ClCompile Include="houses.cpp">
+      <Filter>Source Files\04_01</Filter>
+    </ClCompile>
+    <ClCompile Include="House.cpp">
+      <Filter>Source Files\04_01</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="House.h">
+      <Filter>Source Files\04_01</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
