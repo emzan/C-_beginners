@@ -13,5 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Greetings">
+      <UniqueIdentifier>{35e4f1c8-e2ae-44f6-b51f-1ca3b7f660ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02_02">
+      <UniqueIdentifier>{e4915dfa-cd10-45c4-9eb2-ee787218f26e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02_03">
+      <UniqueIdentifier>{ac9a5f06-5f02-4a9c-9a52-64d182341f16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="greetings.cpp">
+      <Filter>Source Files\Greetings</Filter>
+    </ClCompile>
+    <ClCompile Include="travelcost.cpp">
+      <Filter>Source Files\02_02</Filter>
+    </ClCompile>
+    <ClCompile Include="dataTypes.cpp">
+      <Filter>Source Files\02_03</Filter>
+    </ClCompile>
+    <ClCompile Include="asciitable.cpp">
+      <Filter>Source Files\02_03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

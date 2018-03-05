@@ -143,6 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asciitable.cpp" />
+    <ClCompile Include="dataTypes.cpp" />
+    <ClCompile Include="greetings.cpp" />
+    <ClCompile Include="travelcost.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
