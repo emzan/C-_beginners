@@ -153,6 +153,7 @@
     <ClCompile Include="dollarsAndcents.cpp" />
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="greetings.cpp" />
+    <ClCompile Include="hospitalstay.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="houses.cpp" />
     <ClCompile Include="travelcost.cpp" />
