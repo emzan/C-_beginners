@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 using namespace std;
 
@@ -56,3 +58,5 @@ double calculateCharges(double m, double l)
 {
 	return m + l;
 }
+
+*/

@@ -147,6 +147,7 @@
     <ClCompile Include="boolfunction.cpp" />
     <ClCompile Include="callbyreference.cpp" />
     <ClCompile Include="callbyvalue.cpp" />
+    <ClCompile Include="cashier.cpp" />
     <ClCompile Include="dataTypes.cpp" />
     <ClCompile Include="defaultarguments.cpp" />
     <ClCompile Include="distance.cpp" />
