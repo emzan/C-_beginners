@@ -1,4 +1,4 @@
-
+/*
 #ifndef HOUSE_H_
 #define HOUSE_H_
 #include <string>
@@ -31,3 +31,4 @@ public:
 };
 
 #endif
+*/

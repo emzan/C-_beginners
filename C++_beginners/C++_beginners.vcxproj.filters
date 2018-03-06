@@ -31,6 +31,15 @@
     <Filter Include="Source Files\04_01">
       <UniqueIdentifier>{0f4996ca-fcf4-4ee6-a258-1bc9d659be1b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\03_05">
+      <UniqueIdentifier>{84bb2ac6-129f-408e-8db5-4ed577eac0c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03_06">
+      <UniqueIdentifier>{30b30461-fa22-4471-8fb1-1a3602b22e5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03_07">
+      <UniqueIdentifier>{f4976c1e-22d6-4d39-a31d-13d1b7347300}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -56,6 +65,21 @@
     </ClCompile>
     <ClCompile Include="House.cpp">
       <Filter>Source Files\04_01</Filter>
+    </ClCompile>
+    <ClCompile Include="distance.cpp">
+      <Filter>Source Files\03_05</Filter>
+    </ClCompile>
+    <ClCompile Include="boolfunction.cpp">
+      <Filter>Source Files\03_05</Filter>
+    </ClCompile>
+    <ClCompile Include="callbyvalue.cpp">
+      <Filter>Source Files\03_06</Filter>
+    </ClCompile>
+    <ClCompile Include="callbyreference.cpp">
+      <Filter>Source Files\03_06</Filter>
+    </ClCompile>
+    <ClCompile Include="defaultarguments.cpp">
+      <Filter>Source Files\03_07</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

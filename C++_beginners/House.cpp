@@ -1,3 +1,5 @@
+/*
+
 #include "House.h"
 #include <iostream>
 using namespace std;
@@ -61,3 +63,4 @@ void House::setSqft(double sqft)
 {
 	squareFeet = sqft;
 }
+*/

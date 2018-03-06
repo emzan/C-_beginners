@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 #include "House.h"
 #include <string>
@@ -27,3 +29,5 @@ void printHouse(House house)
 	cout << endl << endl;
 
 }
+
+*/

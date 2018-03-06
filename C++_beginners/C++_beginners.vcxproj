@@ -144,7 +144,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="asciitable.cpp" />
+    <ClCompile Include="boolfunction.cpp" />
+    <ClCompile Include="callbyreference.cpp" />
+    <ClCompile Include="callbyvalue.cpp" />
     <ClCompile Include="dataTypes.cpp" />
+    <ClCompile Include="defaultarguments.cpp" />
+    <ClCompile Include="distance.cpp" />
     <ClCompile Include="dollarsAndcents.cpp" />
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="greetings.cpp" />
