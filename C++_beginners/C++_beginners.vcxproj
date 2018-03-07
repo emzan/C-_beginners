@@ -153,14 +153,17 @@
     <ClCompile Include="distance.cpp" />
     <ClCompile Include="dollarsAndcents.cpp" />
     <ClCompile Include="expressions.cpp" />
+    <ClCompile Include="favoriteMovies.cpp" />
     <ClCompile Include="greetings.cpp" />
     <ClCompile Include="hospitalstay.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="houses.cpp" />
+    <ClCompile Include="Movie.cpp" />
     <ClCompile Include="travelcost.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="House.h" />
+    <ClInclude Include="Movie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

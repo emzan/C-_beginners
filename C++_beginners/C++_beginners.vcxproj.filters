@@ -46,6 +46,9 @@
     <Filter Include="Source Files\03_10">
       <UniqueIdentifier>{87220424-1897-41d0-b4d6-a25a9fe4ade8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\04_07">
+      <UniqueIdentifier>{ca27ca99-165b-4f3e-b94e-4a5ea7b9b672}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -93,10 +96,19 @@
     <ClCompile Include="cashier.cpp">
       <Filter>Source Files\03_10</Filter>
     </ClCompile>
+    <ClCompile Include="favoriteMovies.cpp">
+      <Filter>Source Files\04_07</Filter>
+    </ClCompile>
+    <ClCompile Include="Movie.cpp">
+      <Filter>Source Files\04_07</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="House.h">
       <Filter>Source Files\04_01</Filter>
+    </ClInclude>
+    <ClInclude Include="Movie.h">
+      <Filter>Source Files\04_07</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
