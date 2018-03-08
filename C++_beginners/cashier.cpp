@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 
 using namespace std;
@@ -51,3 +53,5 @@ void findCoins(int& coins, int& quarters, int& dimes, int& nickels, int& pennies
 	nickels = coins % 25 % 10 / 5;
 	pennies = coins % 25 % 10 % 5;
 }
+
+*/
