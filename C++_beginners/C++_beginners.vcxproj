@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrays.cpp" />
     <ClCompile Include="asciitable.cpp" />
     <ClCompile Include="boolfunction.cpp" />
     <ClCompile Include="callbyreference.cpp" />
@@ -155,6 +156,7 @@
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="favoriteMovies.cpp" />
     <ClCompile Include="greetings.cpp" />
+    <ClCompile Include="heights.cpp" />
     <ClCompile Include="hospitalstay.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="houses.cpp" />

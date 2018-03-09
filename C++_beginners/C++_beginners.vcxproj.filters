@@ -49,6 +49,9 @@
     <Filter Include="Source Files\04_07">
       <UniqueIdentifier>{ca27ca99-165b-4f3e-b94e-4a5ea7b9b672}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\05_01">
+      <UniqueIdentifier>{34b872f7-3bf5-4ea9-a926-558e2256394b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -101,6 +104,12 @@
     </ClCompile>
     <ClCompile Include="Movie.cpp">
       <Filter>Source Files\04_07</Filter>
+    </ClCompile>
+    <ClCompile Include="arrays.cpp">
+      <Filter>Source Files\05_01</Filter>
+    </ClCompile>
+    <ClCompile Include="heights.cpp">
+      <Filter>Source Files\05_01</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

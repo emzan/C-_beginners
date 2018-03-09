@@ -1,3 +1,5 @@
+/*
+
 #include "Movie.h"
 #include <iostream>
 using namespace std;
@@ -54,3 +56,4 @@ void Movie::setRating(string rating)
 	this->rating = rating;
 }
 
+*/

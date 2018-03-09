@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 #include "Movie.h"
 using namespace std;
@@ -47,3 +49,4 @@ int main()
 	cout << "\nIt was released in: " << movie3.getYear() << "\n";
 	cout << "It was rated: " << movie3.getRating() << endl << endl;
 }
+*/
