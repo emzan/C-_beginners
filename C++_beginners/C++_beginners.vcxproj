@@ -146,6 +146,7 @@
     <ClCompile Include="arrays.cpp" />
     <ClCompile Include="ArreVector.cpp" />
     <ClCompile Include="asciitable.cpp" />
+    <ClCompile Include="binarysearch.cpp" />
     <ClCompile Include="boolfunction.cpp" />
     <ClCompile Include="callbyreference.cpp" />
     <ClCompile Include="callbyvalue.cpp" />
@@ -162,7 +163,9 @@
     <ClCompile Include="House.cpp" />
     <ClCompile Include="houses.cpp" />
     <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="pointers.cpp" />
     <ClCompile Include="travelcost.cpp" />
+    <ClCompile Include="vectors.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="House.h" />

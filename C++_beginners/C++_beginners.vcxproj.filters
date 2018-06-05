@@ -55,6 +55,15 @@
     <Filter Include="Source Files\ArrayVectors">
       <UniqueIdentifier>{2d522ce5-f4b7-43d8-b31d-0999eb55d132}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\05_04">
+      <UniqueIdentifier>{267cadaa-0343-4452-b952-0afaf5784a9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\05_03">
+      <UniqueIdentifier>{a763d206-11ee-4d13-b63b-18c1683b6b9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\05_05">
+      <UniqueIdentifier>{463d40db-0fdc-4f55-bd26-6dc6ead9647a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -116,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="ArreVector.cpp">
       <Filter>Source Files\ArrayVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="vectors.cpp">
+      <Filter>Source Files\05_04</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers.cpp">
+      <Filter>Source Files\05_03</Filter>
+    </ClCompile>
+    <ClCompile Include="binarysearch.cpp">
+      <Filter>Source Files\05_05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
