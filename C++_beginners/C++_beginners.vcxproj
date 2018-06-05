@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="arrays.cpp" />
+    <ClCompile Include="ArreVector.cpp" />
     <ClCompile Include="asciitable.cpp" />
     <ClCompile Include="boolfunction.cpp" />
     <ClCompile Include="callbyreference.cpp" />

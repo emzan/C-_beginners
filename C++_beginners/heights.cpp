@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -53,3 +55,5 @@ double findTallest(double h[], int size)
 
 	return tallest;
 }
+
+*/

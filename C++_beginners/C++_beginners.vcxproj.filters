@@ -52,6 +52,9 @@
     <Filter Include="Source Files\05_01">
       <UniqueIdentifier>{34b872f7-3bf5-4ea9-a926-558e2256394b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ArrayVectors">
+      <UniqueIdentifier>{2d522ce5-f4b7-43d8-b31d-0999eb55d132}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -110,6 +113,9 @@
     </ClCompile>
     <ClCompile Include="heights.cpp">
       <Filter>Source Files\05_01</Filter>
+    </ClCompile>
+    <ClCompile Include="ArreVector.cpp">
+      <Filter>Source Files\ArrayVectors</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
