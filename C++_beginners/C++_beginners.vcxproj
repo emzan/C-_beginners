@@ -151,10 +151,13 @@
     <ClCompile Include="callbyreference.cpp" />
     <ClCompile Include="callbyvalue.cpp" />
     <ClCompile Include="cashier.cpp" />
+    <ClCompile Include="challenge.cpp" />
     <ClCompile Include="dataTypes.cpp" />
     <ClCompile Include="defaultarguments.cpp" />
     <ClCompile Include="distance.cpp" />
     <ClCompile Include="dollarsAndcents.cpp" />
+    <ClCompile Include="employees.cpp" />
+    <ClCompile Include="errorhandling.cpp" />
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="favoriteMovies.cpp" />
     <ClCompile Include="greetings.cpp" />

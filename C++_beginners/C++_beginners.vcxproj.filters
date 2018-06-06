@@ -64,6 +64,15 @@
     <Filter Include="Source Files\05_05">
       <UniqueIdentifier>{463d40db-0fdc-4f55-bd26-6dc6ead9647a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\06_02">
+      <UniqueIdentifier>{69231953-705b-464d-98cc-b849e62dc2c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\06_04">
+      <UniqueIdentifier>{ca0d692e-2fa6-4a36-97df-0a0bf2d2901c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\05_02">
+      <UniqueIdentifier>{7f6edca5-2115-42e9-ad82-ec9922772fca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -134,6 +143,15 @@
     </ClCompile>
     <ClCompile Include="binarysearch.cpp">
       <Filter>Source Files\05_05</Filter>
+    </ClCompile>
+    <ClCompile Include="errorhandling.cpp">
+      <Filter>Source Files\06_02</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge.cpp">
+      <Filter>Source Files\06_04</Filter>
+    </ClCompile>
+    <ClCompile Include="employees.cpp">
+      <Filter>Source Files\05_02</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
