@@ -165,6 +165,8 @@
     <ClCompile Include="hospitalstay.cpp" />
     <ClCompile Include="House.cpp" />
     <ClCompile Include="houses.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Movie.cpp" />
     <ClCompile Include="pointers.cpp" />
     <ClCompile Include="travelcost.cpp" />
@@ -172,6 +174,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="House.h" />
+    <ClInclude Include="Log.h" />
     <ClInclude Include="Movie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

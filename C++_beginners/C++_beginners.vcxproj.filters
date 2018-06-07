@@ -73,6 +73,9 @@
     <Filter Include="Source Files\05_02">
       <UniqueIdentifier>{7f6edca5-2115-42e9-ad82-ec9922772fca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Debugging">
+      <UniqueIdentifier>{6dc5bd75-2435-4f8e-bdec-fc95bd6bff0e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="greetings.cpp">
@@ -153,6 +156,12 @@
     <ClCompile Include="employees.cpp">
       <Filter>Source Files\05_02</Filter>
     </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Debugging</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files\Debugging</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="House.h">
@@ -160,6 +169,9 @@
     </ClInclude>
     <ClInclude Include="Movie.h">
       <Filter>Source Files\04_07</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Source Files\Debugging</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
